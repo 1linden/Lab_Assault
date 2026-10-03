@@ -3,3 +3,6 @@
 /android/
 *.import
 *.uid
+icon.svg
+.vscode
+export_presets.cfg
